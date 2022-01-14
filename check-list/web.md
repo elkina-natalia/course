@@ -9,7 +9,7 @@
 
 > **Макет**
 
-![](../images/p1.png =200x200)
+<img src="../images/p1.png" width="300" height="200">
 
 > **Чек-лист**
 
