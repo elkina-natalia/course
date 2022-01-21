@@ -53,8 +53,8 @@
 		<tr>
 			<td style="text-align:center; width:216px"><strong>Дополнительные материалы</strong></td>
 			<td style="width:392px">
-			<p> Скриншот 1 <br/> <img src="../images/p6.png" width="500"></p>
-			<p> Скриншот 2 <br/> <img src="../images/p5.jpeg" width="300"></p>
+			<p> Скриншот 1 <br/> <img src="../images/p6.png"></p>
+			<p> Скриншот 2 <br/> <img src="../images/p5.jpeg" width="100"></p>
 			</td>
 		</tr>
 	</tbody>
