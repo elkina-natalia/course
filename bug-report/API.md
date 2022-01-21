@@ -12,7 +12,7 @@
 		</tr>
 		<tr>
 			<td style="text-align:center; width:216px"><strong>Заголовок</strong></td>
-			<td style="width:392px"><strong>DELETE /api/v1/orders/:id</strong> возвращает 404 Not Found при удалении корзины</td>
+			<td style="width:392px">DELETE /api/v1/orders/:id возвращает 404 Not Found при удалении корзины</td>
 		</tr>
 		<tr>
 			<td style="text-align:center; width:216px"><strong>Описание</strong></td>
@@ -22,7 +22,7 @@
 			<td style="text-align:center; width:216px"><strong>Шаги воспроизведения</strong></td>
 			<td style="width:392px">
 			<ol>
-				<li>Создать корзину методом <strong>POST/api/v1/orders</strong> с телом запроса:
+				<li>Создать корзину методом POST/api/v1/orders с телом запроса:
 				<pre>
 <code class="language-json">{
     "productsList": [
@@ -38,7 +38,7 @@
 }
 </code></pre>
 				</li>
-				<li>Удалить созданную корзину методом <strong>DELETE /api/v1/orders/:id</strong></li>
+				<li>Удалить созданную корзину методом DELETE /api/v1/orders/:id</li>
 			</ol>
 			</td>
 		</tr>
