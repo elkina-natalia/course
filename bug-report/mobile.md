@@ -53,8 +53,8 @@
 		<tr>
 			<td style="text-align:center; width:216px"><strong>Дополнительные материалы</strong></td>
 			<td style="width:392px">
-			<p>[Скриншот 1](../images/p5.png)</p>
-			<p>[Скриншот 2](../images/p6.png)</p>
+			<p>[Скриншот 1](https://github.com/elkina-natalia/course/blob/main/images/p5.jpeg)</p>
+			<p>[Скриншот 2](https://github.com/elkina-natalia/course/blob/main/images/p6.jpeg)</p>
 			</td>
 		</tr>
 	</tbody>
